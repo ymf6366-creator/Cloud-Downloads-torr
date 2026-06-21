@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3656",
+  "folder": "YouTube__watch_20260621131053_e4c790",
+  "base_name": "INNA_-_Morenito_eyZOn6_TT0k_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ymf6366-creator/Cloud-Downloads-torr/releases/tag/co-releases-v1-3656",
+  "files": [
+    {
+      "name": "INNA_-_Morenito_eyZOn6_TT0k_1080p.mp4",
+      "url": "https://github.com/ymf6366-creator/Cloud-Downloads-torr/releases/download/co-releases-v1-3656/INNA_-_Morenito_eyZOn6_TT0k_1080p.mp4",
+      "api_url": "https://api.github.com/repos/ymf6366-creator/Cloud-Downloads-torr/releases/assets/453709767",
+      "id": 453709767,
+      "size": 49036891,
+      "download_count": 0
+    }
+  ]
+}
