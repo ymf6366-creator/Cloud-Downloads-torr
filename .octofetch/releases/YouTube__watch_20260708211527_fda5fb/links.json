@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6146",
+  "folder": "YouTube__watch_20260708211527_fda5fb",
+  "base_name": "Hermes_Ae8oyaIHi9o_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/ymf6366-creator/Cloud-Downloads-torr/releases/tag/co-releases-v1-6146",
+  "files": [
+    {
+      "name": "Hermes_Ae8oyaIHi9o_1080p.mp4",
+      "url": "https://github.com/ymf6366-creator/Cloud-Downloads-torr/releases/download/co-releases-v1-6146/Hermes_Ae8oyaIHi9o_1080p.mp4",
+      "api_url": "https://api.github.com/repos/ymf6366-creator/Cloud-Downloads-torr/releases/assets/470672771",
+      "id": 470672771,
+      "size": 184223525,
+      "download_count": 0
+    }
+  ]
+}
